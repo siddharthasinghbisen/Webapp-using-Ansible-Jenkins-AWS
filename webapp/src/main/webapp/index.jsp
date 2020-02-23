@@ -1,7 +1,7 @@
-<!--<h1> Hello, This is Siddharth Singh !!! </h1>
-<h2> Commit to Git, integrate to jenkins for build and testing then to ansible server and finally to the tomcat server to deploy the webapp </h2>
+<h1> You r successfully logged in </h1>
+<!-- <h2> Commit to Git, integrate to jenkins for build and testing then to ansible server and finally to the tomcat server to deploy the webapp </h2>
 <h3> One last test, before logging out!! Cheers </h3> -->
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!--
 <!DOCTYPE html>
 <html>
     <head>
@@ -38,4 +38,4 @@
             </center>
         </form>
     </body>
-</html>
+</html> -->
